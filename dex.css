@@ -94,7 +94,7 @@ form{
 }
 .pokdx{
     float: center;
-    background-image: url("../images/pkdexx.png");
+    background-image: url("./images/pkdexx.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: #c7c7c700;
